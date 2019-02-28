@@ -2,7 +2,7 @@
 visit_level_conversions
 
 ### Description
-For any any mammogram visit, this table will indicate the type of conversion for that visit.
+For any screening mammogram visit, this table will indicate the type of conversion for that visit.
 
 ### Date of Creation
 02/22/2019
